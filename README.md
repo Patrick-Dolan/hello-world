@@ -29,4 +29,4 @@ _A simple webpage with some greetings in different languages to greet the planet
 
 _MIT_
 
-Copyright (c) _2020_ _Patrick Dolan_
+Copyright (c) _2021_ _Patrick Dolan_
